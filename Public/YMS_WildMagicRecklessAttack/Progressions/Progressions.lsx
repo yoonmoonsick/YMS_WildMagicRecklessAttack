@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="WildMagicPath"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WildMagicRage;YMS_RecklessAttack"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="RageUnlock;RecklessAttack"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6a27ea3e-ed94-4d90-9a27-109a902dd049)"/>
+                    <attribute id="TableUUID" type="guid" value="7d5237b0-9ac6-4344-8171-43fa2f553e2f"/>
+                    <attribute id="UUID" type="guid" value="9026e0b6-52a7-46b9-a318-d85b6a2a81c5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
